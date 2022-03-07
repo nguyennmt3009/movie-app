@@ -27,3 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Version
 ElectronJS 13
 VueJS 3
+
+### Reference
+https://blog.logrocket.com/building-app-electron-vue/
